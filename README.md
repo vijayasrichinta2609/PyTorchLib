@@ -1,8 +1,6 @@
 # PyTorchLib
 
-PyTorch library
-                                                                                                                                            
-# Introduction on PyTorch:
+
 PyTorch is a powerful deep learning framework that has become increasingly popular among researchers and developers. Its dynamic computational graph and automatic differentiation capabilities make it easy to build and train neural networks. PyTorch also has strong GPU acceleration capabilities and provides several tools for working with large datasets.
 
 # What Is PyTorch?
